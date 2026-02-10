@@ -1,0 +1,9 @@
+{
+  "name": "AeromindAI: Conversational Travel Agent",
+  "description": "A high-performance AI-powered travel companion protecting your journey with real-time intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
